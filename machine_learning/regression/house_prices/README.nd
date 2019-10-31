@@ -1,0 +1,4 @@
+This project uses supervised learning methods to predict house prices in Boston. This was part of the Udacity machine learning nanodegree program.
+
+Steps to run the notebook:
+1. The data is already contained in the folder. Just run the boston_housing.ipynb in this folder.
